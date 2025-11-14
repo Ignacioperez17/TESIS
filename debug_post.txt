@@ -1,0 +1,9 @@
+Array
+(
+    [nombre] => MADERA
+    [id_categoria] => 1234
+    [id_proveedor] => 5678
+    [precio_compra] => 20
+    [precio_venta] => 10
+    [stock] => 100
+)
